@@ -51,7 +51,7 @@ Additionally, I'm proud to mention that I've joined the **AWS Certified Global C
 
 If you're seeking a motivated and skilled DevOps Engineer with expertise in AWS, Azure, and Oracle Cloud Infrastructure, I'm eager to discuss how my certifications and experience can benefit your organization. Let's connect and explore possibilities for mutual growth. 📈💡🌐 #DevOps #CloudExpert
 
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Reddi%20Manikanta%20Surya%20Prasad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manikantareddi/)
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Reddi%20Manikanta%20Surya%20Prasad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suryareddi/)
 
 
 
