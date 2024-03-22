@@ -20,15 +20,12 @@
 </div>
 
 ## :man_technologist: About Me
-I'm a highly motivated Infra Managed Service Associate at Accenture, with a strong passion for technology and an extensive background in crafting robust and scalable software solutions. I bring over 4 years of experience to the table, having transitioned from my role as a Cloud Support Associate at Village IT Services to my current position.
+I'm a highly motivated Infra Managed Service Associate at Accenture, with a strong passion for technology and an extensive background in crafting robust and scalable software solutions. 
 
 🏢 **Accenture (Infra Managed Service Associate)**
-- April 2022 - Present (1 year 10 months)
+- April 2022 - January 2024 (1 year 10 months)
 - In my role here, I've been at the forefront of designing and developing software solutions that precisely align with business requirements. I've crafted implementation and integration approaches for applications, ensuring seamless functionality. Additionally, I've taken charge of primary support for application releases into production, meticulously planning and scheduling deployments. Whenever defects or performance issues arise within Service Level Agreements, I've been quick to coordinate and resolve them, ensuring minimal downtime. My dedication to enhancing system performance is evident through my thorough analysis, design, building, and testing of new components.
 
-🏢 **Village IT Services Private Limited (Cloud Support Associate)**
-- March 2019 - March 2022 (3 years 1 month)
-- During my time at Village IT Services, I specialized in deploying and managing web and mobile projects on AWS cloud infrastructure. I not only provided exceptional technical support but also optimized resource utilization, resulting in cost savings and improved project performance. Meticulous planning was a cornerstone of my approach, leading to flawless project execution. I stayed ahead of cloud technology advancements and actively contributed to fostering innovation in cloud-supported development.
 
 My proficiency extends to cloud computing and DevOps, underscored by a robust set of certifications:
 
@@ -38,12 +35,6 @@ My proficiency extends to cloud computing and DevOps, underscored by a robust se
   <li><span style="color: #000080;">AWS SysOps Administrator - Associate 🛡️</span></li>
   <li><span style="color: #000080;">AWS Solutions Architect Associate 🏗️</span></li>
   <li><span style="color: #000080;">AWS Certified DevOps Engineer – Professional ⚙️</span></li>
-  <li><span style="color: #000080;">Microsoft Certified: Azure Fundamentals 🌐</span></li>
-  <li><span style="color: #000080;">Microsoft Certified: Azure Administrator Associate ⚙️</span></li>
-  <li><span style="color: #000080;">Microsoft Certified: DevOps Engineer Expert ⚙️</span></li>
-  <li><span style="color: #000080;">Oracle Cloud Infrastructure 2023 Certified Foundations Associate ☁️</span></li>
-  <li><span style="color: #000080;">Oracle Cloud Data Management 2023 Certified Foundations Associate 📊</span></li>
-  <li><span style="color: #000080;">Oracle Cloud Infrastructure 2023 Certified Developer Professional 🛠️</span></li>
 </ul>
   </p>
 </marquee>
